@@ -1,4 +1,4 @@
-# Aplikasi Peminatan Jurusan Menggunakan Metode Association Rule dan Algoritma Apriori Berbasis Web
+## Aplikasi Peminatan Jurusan Menggunakan Metode Association Rule dan Algoritma Apriori Berbasis Web
 
 ## Screenshots
 
