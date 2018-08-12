@@ -1,4 +1,4 @@
-# Data-Mining-with-Apriori-and-Association-Rule
+# Data Mining with Apriori Algoritm and Association Rule
 
 Aplikasi Peminatan Jurusan Menggunakan Metode Association Rule dan Algoritma Apriori Berbasis Web
 
