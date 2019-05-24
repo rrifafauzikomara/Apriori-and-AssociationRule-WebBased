@@ -20,6 +20,14 @@
 3. Tentukan range data sesuai dengan excell dan tentukan juga untuk ***Min Support*** dan ***Min Confidence***.
 4. Cetak hasil data akhirnya
 
+### Demo
+1. Username Administrator: user = admin & pass = admin
+2. Username User Direktur: user = user & pass = user
+Link website <a href="http://apriori.rifafauzi.com">here</a>
+
+### Issue
+Jika ada masalah ketika mendemo website, sila hub saya :D
+
 ## Author
 
 * **R Rifa Fauzi Komara**
