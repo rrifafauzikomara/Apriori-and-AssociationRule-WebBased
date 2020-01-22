@@ -29,6 +29,9 @@ Link website <a href="http://apriori.rifafauzi.com">here</a>
 ### Issue
 Jika ada masalah ketika mendemo website, sila hub saya :D
 
+### Format
+Untuk format dokumennya menggunakan exel, kalian bisa download <a href="https://github.com/rrifafauzikomara/Apriori-and-AssociationRule-WebBased/tree/master/Format">disini</a>
+
 ## Author
 
 * **R Rifa Fauzi Komara**
